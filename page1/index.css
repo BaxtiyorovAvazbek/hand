@@ -1,0 +1,245 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&family=Roboto+Flex&family=Roboto:wght@400;500&display=swap');
+
+* {
+    margin: 0%;
+    padding: 0%;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav1{
+    margin: auto;
+    background-color: #1391CEB2;
+    height: 150px;
+}
+
+.container1{
+    width: 1200px;
+    margin: auto;
+}
+
+.parent1{
+    display: flex;
+    align-items: center;
+}
+
+.section1{
+    display: flex;
+    align-items: center;
+    font-size: 24px;
+    color: #25468A;
+}
+
+.list-start{
+    display: flex;
+    font-family: Roboto;
+}
+
+.list1{
+    display: flex;
+    gap: 40px;
+    font-family: Roboto;
+    color: #25468A;
+    font-size: 16px;
+    margin-left: 450px;
+    font-family: Roboto;
+}
+
+.list-item1{
+    color: #FFFFFF;
+}
+
+.btn1{
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 18px;
+    padding-right: 18px;
+    background: #FFFFFF;
+    border-radius: 24px;
+    font-family: Roboto;
+    border-color: rgb(255, 255, 255);
+    font-size: 16px;
+    margin-left: 25px;
+    color: #14274C;
+}
+
+.nav2{
+    background-color: #1391CEB2;
+    height: 513px;
+}
+
+.container2{
+    width: 1121px;
+    margin: auto;
+}
+
+.parent2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.list-item2{
+    font-size: 92px;
+    color: #25468A;
+    line-height: 107px;
+    font-family: Roboto;
+}
+
+.list-item3{
+    font-size: 32px;
+    color: #3B4A6B;
+    font-family: Roboto;
+}
+
+.list-item4{
+    font-size: 20px;
+    margin-top: 20px;
+    width: 560px;
+    color: #3B4A6B;
+    font-family: Roboto;
+}
+
+.btn2{
+    margin-top: 25px;
+    background-color: #F7BA0E;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 85px;
+    padding-right: 85px;
+    border-radius: 26px;
+    border-color: #F7BA0E;
+    font-size: 18px;
+    color: #3B4A6B;
+}
+
+.section5{
+    background-image: url(/img/Dell\ XPS\ 13_.png);
+    background-repeat: no-repeat;
+    background-size: cover;   
+}
+
+header{
+    height: 306px;
+}
+
+.section-header{
+    margin-top: 210px;
+    margin-left: 103px;
+}
+
+.btn3{
+    background-color: #1391CE;
+    height: 189px;
+    width: 352px;
+    border-radius: 8px;
+    font-size: 22px;
+    color: #FFFFFF;
+    margin-left: 30px;
+    font-family: Roboto;
+}
+
+.container-main1{
+    width: 1137px;
+    margin: auto;
+}
+
+.main-section{
+    text-align: center;
+}
+
+b{
+    color: #1391CE;
+    font-size: 36px;
+    font-family: Inter;
+}
+
+.btn4{
+    background-color: #F7BA0E;
+    border-color: #F7BA0E;
+    height: 8px;
+    width: 160px;
+}
+
+.section6{
+    display: flex;
+}
+
+.list-dad{
+    width: 448px;
+    margin-left: 100px;
+}
+
+.list-items1{
+    color: #25468A;
+    font-size: 16px;
+    font-family: Inter;
+}
+
+.list-items2{
+    color: #1391CE;
+    font-size: 32px;
+    margin-top: 20px;
+    font-family: Inter;
+}
+
+.list-items3{
+    color: Gray 2;
+    font-size: 18px;
+    font-family: Inter;
+    margin-top: 40px;
+}
+
+.container-main2{
+    width: 1137px;
+    margin: auto;
+}
+
+.section-center{
+    display: flex;
+}
+
+.item1{
+    font-size: 16px;
+    color: #25468A;
+    font-family: Inter;
+}
+
+.item2{
+    font-size: 32px;
+    color: #1391CE;
+    font-family: Inter;
+    margin-top: 20px;
+}
+
+.item3{
+    font-size: 18px;
+    color: Gray 2;
+    font-family: Inter;
+    width: 448px;
+    margin-top: 20px;
+}
+
+.item4{
+    font-size: 22px;
+    color: #1391CE;
+    font-family: Inter;
+    margin-top: 20px;
+}
+
+.item5{
+    font-size: 16px;
+    color: Gray 2;
+    font-family: Inter;
+    width: 441px;
+    margin-top: 20px;
+}
+
+.img2{
+    margin-left: 150px;
+}
